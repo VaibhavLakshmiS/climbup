@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/VaibhavLakshmiS/climbup/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/VaibhavLakshmiS/climbup/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,5 +24,6 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/VaibhavLakshmiS/climbup/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/VaibhavLakshmiS/climbup/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
