@@ -39,4 +39,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VaibhavLakshmiS/climbup/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/VaibhavLakshmiS/climbup/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
