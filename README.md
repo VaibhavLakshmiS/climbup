@@ -51,6 +51,7 @@
 | [0577-employee-bonus](https://github.com/VaibhavLakshmiS/climbup/tree/master/0577-employee-bonus) |
 | [0596-classes-with-at-least-5-students](https://github.com/VaibhavLakshmiS/climbup/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/VaibhavLakshmiS/climbup/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/VaibhavLakshmiS/climbup/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VaibhavLakshmiS/climbup/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/VaibhavLakshmiS/climbup/tree/master/1683-invalid-tweets) |
 ## Greedy
