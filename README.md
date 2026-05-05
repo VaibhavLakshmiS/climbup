@@ -57,6 +57,7 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/VaibhavLakshmiS/climbup/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/VaibhavLakshmiS/climbup/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/VaibhavLakshmiS/climbup/tree/master/1683-invalid-tweets) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/VaibhavLakshmiS/climbup/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Greedy
 |  |
 | ------- |
